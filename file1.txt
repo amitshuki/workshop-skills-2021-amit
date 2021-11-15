@@ -1,1 +1,2 @@
 hi i am file 1
+line 6
